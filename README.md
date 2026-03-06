@@ -7,6 +7,8 @@ Kessler OS is a simple operations dashboard for satellites in Low Earth Orbit (L
 
 As orbit becomes more crowded, satellite teams need faster ways to make decisions. Kessler OS turns complex orbital data into clear, actionable insights.
 
+See it live here: https://kessler-vp-aj.vercel.app/
+
 ---
 
 ## The Problem
